@@ -1,4 +1,4 @@
-# sentimental_analysis_in_python
+# NLTK : Sentimental_Analysis_in_python
  # HERE IS THE CODE FOR YOU:
 https://colab.research.google.com/drive/11oEm5UVUrs-uFPq4wki97Iz5n3bhIQW4#scrollTo=GDCAleJO2G42
  
